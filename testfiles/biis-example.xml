@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><ns1:ValXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns1="http://www.biis.info/fileadmin/BIISValXML/Schema/ValXML1.0">
+    <ns1:Date>2011-05-01</ns1:Date>
+    <ns1:CompletionDate>2012-07-31T11:45:00</ns1:CompletionDate>
+    <ns1:DataSupplier>
+        <ns1:Short></ns1:Short>
+        <ns1:TypeOfDataSupplier>SVA</ns1:TypeOfDataSupplier>
+    </ns1:DataSupplier>
+    <ns1:BIISValuationData>
+        <ns1:General>
+            <ns1:ArealUnit>qm</ns1:ArealUnit>
+            <ns1:Address>
+                <ns1:Street>Prinzregentenstr. 80</ns1:Street>
+                <ns1:PostCode>81675</ns1:PostCode>
+                <ns1:Town>München</ns1:Town>
+                <ns1:Country>DE</ns1:Country>
+                <ns1:Text>Musterobjekt 123</ns1:Text>
+            </ns1:Address>
+            <ns1:Owner>Muster KAG</ns1:Owner>
+            <ns1:ObjNoOwner>123</ns1:ObjNoOwner>
+            <ns1:ObjKoWGS84Longitude>52.427927</ns1:ObjKoWGS84Longitude>
+            <ns1:ObjKoWGS84Latitude>13.315001</ns1:ObjKoWGS84Latitude>
+        </ns1:General>
+        <ns1:ValuationResults>
+            <ns1:RebaseType1>Fondsgutachten</ns1:RebaseType1>
+            <ns1:RebaseType2>N</ns1:RebaseType2>
+            <ns1:RebaseObjAdditionalInformation xsi:nil="true"></ns1:RebaseObjAdditionalInformation>
+            <ns1:DateOfAppraisal>2012-12-21</ns1:DateOfAppraisal>
+            <ns1:QualityDateOfAppraisal>wie Wertermittlungsstichtag</ns1:QualityDateOfAppraisal>
+            <ns1:Currency>EUR</ns1:Currency>
+            <ns1:ExchangeRate1EUR>1</ns1:ExchangeRate1EUR>
+            <ns1:DateExchangeRate>2012-06-06</ns1:DateExchangeRate>
+            <ns1:MainTypeOfUse>Buero</ns1:MainTypeOfUse>
+            <ns1:ShareMainTypeOfUse>73.5</ns1:ShareMainTypeOfUse>
+            <ns1:AncillaryTypeOfUse>Gastronomie</ns1:AncillaryTypeOfUse>
+            <ns1:ShareAncillaryTypeOfUse>12.3</ns1:ShareAncillaryTypeOfUse>
+            <ns1:TypeOfOwnership>4</ns1:TypeOfOwnership>
+            <ns1:SingleTenant>false</ns1:SingleTenant>
+            <ns1:PurchasePrice>12500000</ns1:PurchasePrice>
+            <ns1:DateOfPurchase>2011-12-12</ns1:DateOfPurchase>
+            <ns1:PriceOfSale>12600000</ns1:PriceOfSale>
+            <ns1:DateOfSale>2012-12-12</ns1:DateOfSale>
+            <ns1:LocationQuality>1b</ns1:LocationQuality>
+            <ns1:StructuralCondition>gut</ns1:StructuralCondition>
+            <ns1:FitOutQuality>mittel</ns1:FitOutQuality>
+            <ns1:StateOfCompletion>F</ns1:StateOfCompletion>
+            <ns1:MaintenanceBacklog>false</ns1:MaintenanceBacklog>
+            <ns1:Floors>5</ns1:Floors>
+            <ns1:NormalTotalEconomicLife>53</ns1:NormalTotalEconomicLife>
+            <ns1:RemainingEconomicLife>42</ns1:RemainingEconomicLife>
+            <ns1:OriginalYearOfConstruction>1920</ns1:OriginalYearOfConstruction>
+            <ns1:CalculatedYearOfConstruction>1945</ns1:CalculatedYearOfConstruction>
+            <ns1:DateOfChangeForRemainingEconomicLife>2011-02-19</ns1:DateOfChangeForRemainingEconomicLife>
+            <ns1:LandSize>2336</ns1:LandSize>
+            <ns1:FloorToAreaRatio xsi:nil="true"></ns1:FloorToAreaRatio>
+            <ns1:SiteCoverageRatio>1.25</ns1:SiteCoverageRatio>
+            <ns1:GrossFloorSpaceOverground>12500</ns1:GrossFloorSpaceOverground>
+            <ns1:GrossFloorSpaceBelowGround>3520</ns1:GrossFloorSpaceBelowGround>
+            <ns1:TotalGrossFloorSpace>16020</ns1:TotalGrossFloorSpace>
+            <ns1:TotalRentableArea>7365</ns1:TotalRentableArea>
+            <ns1:RunningCosts>12500</ns1:RunningCosts>
+            <ns1:ManagementCosts>15000</ns1:ManagementCosts>
+            <ns1:MaintenanceExpenses>10000</ns1:MaintenanceExpenses>
+            <ns1:RentAllowance>5000</ns1:RentAllowance>
+            <ns1:OtherOperatingExpenses>2500</ns1:OtherOperatingExpenses>
+            <ns1:CapitalizationRate>5.4</ns1:CapitalizationRate>
+            <ns1:ValueByIncomeApproachWithoutPremiumsDiscounts>33240000</ns1:ValueByIncomeApproachWithoutPremiumsDiscounts>
+            <ns1:DiscountsPremiums>14500</ns1:DiscountsPremiums>
+            <ns1:DeductionForVacancy>1200</ns1:DeductionForVacancy>
+            <ns1:DeductionConstructionWorks>12750</ns1:DeductionConstructionWorks>
+            <ns1:OthersDiscountsPremiums>2350</ns1:OthersDiscountsPremiums>
+            <ns1:ValueByIncomeApproach>35000000</ns1:ValueByIncomeApproach>
+            <ns1:CostApproach>17000</ns1:CostApproach>
+            <ns1:LandValue>6670000</ns1:LandValue>
+            <ns1:MarketValue>33240000</ns1:MarketValue>
+            <ns1:GroundLease>false</ns1:GroundLease>
+            <ns1:RemainingLifeOfGroundLease>22</ns1:RemainingLifeOfGroundLease>
+            <ns1:GroundRent xsi:nil="true"></ns1:GroundRent>
+            <ns1:GroundLeaseRemarks xsi:nil="true"></ns1:GroundLeaseRemarks>
+            <ns1:RentalSituationOfficeLetArea>7365</ns1:RentalSituationOfficeLetArea>
+            <ns1:RentalSituationOfficeContractualAnnualRent>1683520.2</ns1:RentalSituationOfficeContractualAnnualRent>
+            <ns1:RentalSituationOfficeEstimatedAnnualRentForLetArea>1583578.55</ns1:RentalSituationOfficeEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationOfficeVacantArea xsi:nil="true"></ns1:RentalSituationOfficeVacantArea>
+            <ns1:RentalSituationOfficeEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationOfficeEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationRetailLetArea xsi:nil="true"></ns1:RentalSituationRetailLetArea>
+            <ns1:RentalSituationRetailContractualAnnualRent xsi:nil="true"></ns1:RentalSituationRetailContractualAnnualRent>
+            <ns1:RentalSituationRetailEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationRetailEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationRetailVacantArea xsi:nil="true"></ns1:RentalSituationRetailVacantArea>
+            <ns1:RentalSituationRetailEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationRetailEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationStorageLetArea xsi:nil="true"></ns1:RentalSituationStorageLetArea>
+            <ns1:RentalSituationStorageContractualAnnualRent xsi:nil="true"></ns1:RentalSituationStorageContractualAnnualRent>
+            <ns1:RentalSituationStorageEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationStorageEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationStorageVacantArea xsi:nil="true"></ns1:RentalSituationStorageVacantArea>
+            <ns1:RentalSituationStorageEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationStorageEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationArchiveLetArea xsi:nil="true"></ns1:RentalSituationArchiveLetArea>
+            <ns1:RentalSituationArchiveContractualAnnualRent xsi:nil="true"></ns1:RentalSituationArchiveContractualAnnualRent>
+            <ns1:RentalSituationArchiveEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationArchiveEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationArchiveVacantArea xsi:nil="true"></ns1:RentalSituationArchiveVacantArea>
+            <ns1:RentalSituationArchiveEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationArchiveEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationGastroLetArea xsi:nil="true"></ns1:RentalSituationGastroLetArea>
+            <ns1:RentalSituationGastroContractualAnnualRent xsi:nil="true"></ns1:RentalSituationGastroContractualAnnualRent>
+            <ns1:RentalSituationGastroEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationGastroEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationGastroVacantArea xsi:nil="true"></ns1:RentalSituationGastroVacantArea>
+            <ns1:RentalSituationGastroEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationGastroEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationResidentialLetArea xsi:nil="true"></ns1:RentalSituationResidentialLetArea>
+            <ns1:RentalSituationResidentialContractualAnnualRent xsi:nil="true"></ns1:RentalSituationResidentialContractualAnnualRent>
+            <ns1:RentalSituationResidentialEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationResidentialEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationResidentialVacantArea xsi:nil="true"></ns1:RentalSituationResidentialVacantArea>
+            <ns1:RentalSituationResidentialEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationResidentialEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationHotelLetArea xsi:nil="true"></ns1:RentalSituationHotelLetArea>
+            <ns1:RentalSituationHotelContractualAnnualRent xsi:nil="true"></ns1:RentalSituationHotelContractualAnnualRent>
+            <ns1:RentalSituationHotelEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationHotelEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationHotelVacantArea xsi:nil="true"></ns1:RentalSituationHotelVacantArea>
+            <ns1:RentalSituationHotelEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationHotelEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationLeisureLetArea xsi:nil="true"></ns1:RentalSituationLeisureLetArea>
+            <ns1:RentalSituationLeisureContractualAnnualRent xsi:nil="true"></ns1:RentalSituationLeisureContractualAnnualRent>
+            <ns1:RentalSituationLeisureEstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationLeisureEstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationLeisureVacantArea xsi:nil="true"></ns1:RentalSituationLeisureVacantArea>
+            <ns1:RentalSituationLeisureEstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationLeisureEstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationIndoorparkingLetNumbers>211</ns1:RentalSituationIndoorparkingLetNumbers>
+            <ns1:RentalSituationIndoorparkingContractualAnnualRent>500000</ns1:RentalSituationIndoorparkingContractualAnnualRent>
+            <ns1:RentalSituationIndoorparkingEstimatedAnnualRentForLetNumbers>422000</ns1:RentalSituationIndoorparkingEstimatedAnnualRentForLetNumbers>
+            <ns1:RentalSituationIndoorparkingVacantNumbers xsi:nil="true"></ns1:RentalSituationIndoorparkingVacantNumbers>
+            <ns1:RentalSituationIndoorparkingEstimatedAnnualRentForVacantNumbers xsi:nil="true"></ns1:RentalSituationIndoorparkingEstimatedAnnualRentForVacantNumbers>
+            <ns1:RentalSituationOutsideparkingLetNumbers xsi:nil="true"></ns1:RentalSituationOutsideparkingLetNumbers>
+            <ns1:RentalSituationOutsideparkingContractualAnnualRent xsi:nil="true"></ns1:RentalSituationOutsideparkingContractualAnnualRent>
+            <ns1:RentalSituationOutsideparkingEstimatedAnnualRentForLetNumbers xsi:nil="true"></ns1:RentalSituationOutsideparkingEstimatedAnnualRentForLetNumbers>
+            <ns1:RentalSituationOutsideparkingVacantNumbers xsi:nil="true"></ns1:RentalSituationOutsideparkingVacantNumbers>
+            <ns1:RentalSituationOutsideparkingEstimatedAnnualRentForVacantNumbers xsi:nil="true"></ns1:RentalSituationOutsideparkingEstimatedAnnualRentForVacantNumbers>
+            <ns1:RentalSituationMiscArea1LetArea xsi:nil="true"></ns1:RentalSituationMiscArea1LetArea>
+            <ns1:RentalSituationMiscArea1ContractualAnnualRent xsi:nil="true"></ns1:RentalSituationMiscArea1ContractualAnnualRent>
+            <ns1:RentalSituationMiscArea1EstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationMiscArea1EstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationMiscArea1VacantArea xsi:nil="true"></ns1:RentalSituationMiscArea1VacantArea>
+            <ns1:RentalSituationMiscArea1EstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationMiscArea1EstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationMiscArea2LetArea xsi:nil="true"></ns1:RentalSituationMiscArea2LetArea>
+            <ns1:RentalSituationMiscArea2ContractualAnnualRent xsi:nil="true"></ns1:RentalSituationMiscArea2ContractualAnnualRent>
+            <ns1:RentalSituationMiscArea2EstimatedAnnualRentForLetArea xsi:nil="true"></ns1:RentalSituationMiscArea2EstimatedAnnualRentForLetArea>
+            <ns1:RentalSituationMiscArea2VacantArea xsi:nil="true"></ns1:RentalSituationMiscArea2VacantArea>
+            <ns1:RentalSituationMiscArea2EstimatedAnnualRentForVacantArea xsi:nil="true"></ns1:RentalSituationMiscArea2EstimatedAnnualRentForVacantArea>
+            <ns1:RentalSituationMiscnumbers1LetNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers1LetNumbers>
+            <ns1:RentalSituationMiscnumbers1ContractualAnnualRent xsi:nil="true"></ns1:RentalSituationMiscnumbers1ContractualAnnualRent>
+            <ns1:RentalSituationMiscnumbers1EstimatedAnnualRentForLetNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers1EstimatedAnnualRentForLetNumbers>
+            <ns1:RentalSituationMiscnumbers1VacantNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers1VacantNumbers>
+            <ns1:RentalSituationMiscnumbers1EstimatedAnnualRentForVacantNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers1EstimatedAnnualRentForVacantNumbers>
+            <ns1:RentalSituationMiscnumbers2LetNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers2LetNumbers>
+            <ns1:RentalSituationMiscnumbers2ContractualAnnualRent xsi:nil="true"></ns1:RentalSituationMiscnumbers2ContractualAnnualRent>
+            <ns1:RentalSituationMiscnumbers2EstimatedAnnualRentForLetNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers2EstimatedAnnualRentForLetNumbers>
+            <ns1:RentalSituationMiscnumbers2VacantNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers2VacantNumbers>
+            <ns1:RentalSituationMiscnumbers2EstimatedAnnualRentForVacantNumbers xsi:nil="true"></ns1:RentalSituationMiscnumbers2EstimatedAnnualRentForVacantNumbers>
+        </ns1:ValuationResults>
+    </ns1:BIISValuationData>
+</ns1:ValXML>

@@ -1,0 +1,1 @@
+registeredPlugins = eu.icred.plugin.zgif.Plugin,eu.icred.plugin.Dummy,eu.icred.external.plugin.biis.xml.Plugin,eu.icred.plugin.shell.Plugin
