@@ -78,7 +78,6 @@ public class Reader implements IImportWorker {
             container = new Container();
             Meta meta = container.getMeta();
             meta.setCreator("icred with biis-xml plugin");
-            meta.setProcess(Subset.S5_7);
             meta.setFormat("XML");
             meta.setVersion("1-0.6.2");
 
